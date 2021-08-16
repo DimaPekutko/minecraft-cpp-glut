@@ -12,8 +12,6 @@ Compile and run with Makefile
 
 ## Or just run
 
-Run
-
 ```bash
   ./trashsquare.out
 ```
