@@ -9,8 +9,7 @@ Compile and run with Makefile
   make
 ```
 
-
-## Or just run
+Or just run
 
 ```bash
   ./trashsquare.out
